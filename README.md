@@ -1,3 +1,3 @@
-# cute_note_app
+# wurly_weather_app
 
 A new Flutter project.
